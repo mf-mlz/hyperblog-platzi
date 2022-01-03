@@ -23,3 +23,15 @@ padding: 1em;
 border: 1px solid;
 margin: 0 auto;
 }
+
+#cabecera{
+    background-color: black;
+}
+
+#cabecera p{
+    color: red;
+}
+
+.nav{
+    color:blue;
+}
