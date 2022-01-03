@@ -12,3 +12,14 @@ p{
     font-size: medium;
     color: white;
 }
+
+#contenedor{
+width: 80%;
+text-align: center;
+background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,0.7720797720797721) 8%, rgba(48,48,48,0.8354692218684349) 100%);
+align-content: center;
+padding: 1em;
+border: 1px solid;
+margin: 0 auto;
+}
