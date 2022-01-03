@@ -23,3 +23,24 @@ padding: 1em;
 border: 1px solid;
 margin: 0 auto;
 }
+
+#cabecera{
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,0.465721322708771) 41%, rgba(169,169,169,0.3984944319524685) 100%);
+}
+
+#cabecera p{
+    color: red;
+}
+
+.nav a, li{
+    color: black;
+    font-size: x-large;
+    font-style: bold;
+
+
+}
+
+.nav ul {
+    list-style:none;
+}
