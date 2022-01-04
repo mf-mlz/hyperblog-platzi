@@ -5,7 +5,11 @@ body{
 
 h1{
     font-style: bold;
+<<<<<<< HEAD
     color: rgb(0, 255, 200);
+=======
+    color: red;
+>>>>>>> cabecera
 }
 
 p{
